@@ -29,7 +29,7 @@ body {
 }
 
 .one {
-    font-size: 3.5rem;
+    font-size: 3rem;
 }
 
 .two {
@@ -207,13 +207,13 @@ body {
 }
 
 .wish-hbd {
-    font-size: 3em;
+    font-size: 2em;
     margin: 0;
     text-transform: uppercase;
 }
 
 .wish h5 {
-    font-size: 2rem;
+    font-size: 1.5rem;
     font-weight: lighter;
     margin: 10px 0 0;
 }
